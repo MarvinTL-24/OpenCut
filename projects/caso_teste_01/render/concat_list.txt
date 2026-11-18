@@ -1,0 +1,3 @@
+file 'cena_01_hook_60fps.mp4'
+file '00_brand_sting_60fps.mp4'
+file 'cena_02_origem_60fps.mp4'
